@@ -2,7 +2,7 @@
 title: "PS01"
 author: "Christien Wright"
 date: "9/11/2017"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
